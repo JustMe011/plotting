@@ -27,7 +27,7 @@ APIs deprecated before Qt 6.0.0
 
 # Input
 HEADERS += include/MyPlot.h include/MyWid.h
-SOURCES += src/main.cpp src/MyPlot.cpp src/MyWid.cpp
+SOURCES += main.cpp src/MyPlot.cpp src/MyWid.cpp
 
 QT += widgets
 QT += gui
